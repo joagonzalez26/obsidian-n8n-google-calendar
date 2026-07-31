@@ -24,7 +24,7 @@ Este flujo automatiza la creación de eventos en Google Calendar a partir de tar
 
 ## Caso de uso
 
-Ideal si usás Obsidian como organizador personal y querés que ciertas tareas o recordatorios se sincronicen automáticamente con Google Calendar.
+Ideal si usás Obsidian como organizador personal al igual que yo y querés que ciertas tareas o recordatorios se sincronicen automáticamente con Google Calendar.
 
 ---
 
