@@ -3,7 +3,8 @@
 Aprendé un poco de la famosa automatización en n8n junto conmigo.  
 Este proyecto lee tareas desde un archivo de Obsidian, evita duplicados y crea eventos automáticamente en Google Calendar usando n8n.
 
-![Banner del proyecto](images/banner.png)
+![Uploading banner.png…]()
+![Uploading banner2.png…]()
 
 ---
 
