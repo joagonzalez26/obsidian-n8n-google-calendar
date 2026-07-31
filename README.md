@@ -81,7 +81,7 @@ El flujo toma solamente tareas pendientes (`- [ ]`) que tengan una fecha válida
 ## Cómo hacerlo
 
 Seguí la guía corta de [docs/como-hacerlo.md](docs/como-hacerlo.md).  
-Si algo no funciona, revisá [docs/problemas-frecuentes.md](docs/problemas-frecuentes.md).
+Si algo falla (esperemos qué no), revisá [docs/problemas-frecuentes.md](docs/problemas-frecuentes.md).
 
 ## Autor
 
